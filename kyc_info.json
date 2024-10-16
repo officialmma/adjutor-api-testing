@@ -1,0 +1,23 @@
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "date_of_birth": "1990-01-01",
+  "address": "1234 Elm Street",
+  "city": "Lagos",
+  "country": "Nigeria",
+  "id_type": "passport",
+  "id_number": "A1234567",
+  "issue_date": "2020-01-01",
+  "expiry_date": "2030-01-01"
+}
+
+Other Signup Information
+Signup Credentials:
+
+email: "dummyuser@example.com"
+password: "DummyPass123"
+kyc_info: 
+Login Credentials:
+
+email: "dummyuser@example.com"
+password: "DummyPass123"
