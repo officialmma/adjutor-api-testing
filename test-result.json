@@ -1,0 +1,10 @@
+Test Output for Signup API:
+
+test_signup_successful: Passed, HTTP status 201, User registered successfully.
+test_signup_invalid_email: Passed, HTTP status 400, Invalid email format.
+
+
+Test Output for Login API:
+
+test_login_successful: Passed, HTTP status 200, Login successful.
+test_login_invalid_password: Passed, HTTP status 401, Invalid credentials.
